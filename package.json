@@ -21,5 +21,8 @@
     "gulp-clean-css": "^4.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.1"
+  },
+  "dependencies": {
+    "gulp-webserver": "^0.9.1"
   }
 }
